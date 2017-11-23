@@ -29,3 +29,5 @@ case is_answer_ok
   else
     puts "Meh..."
 end
+
+puts "We're done"
